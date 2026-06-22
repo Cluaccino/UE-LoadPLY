@@ -64,16 +64,16 @@ Restart Unreal Engine — the editor will automatically compile the plugin. Then
 
 启用插件后，你可以通过以下方式使用 PLY 加载功能：
 
-- **蓝图** — 使用插件提供的蓝图节点加载 PLY 资产
+- **蓝图** — 使用插件提供的蓝图节点加载 PLY 资产  
+- **运行示例地图** — 打开插件自带的 `loadplyPlugin/Content/Blueprints/NewMap` 地图并运行，即可看到 PLY 加载演示
 
 After enabling the plugin, you can load PLY assets via:
 
-- **Blueprints** — Use the provided Blueprint nodes
-
+- **Blueprints** — Use the provided Blueprint nodes  
+- **Run the example map** — Open the built-in map `loadplyPlugin/Content/Blueprints/NewMap` and play it to see a PLY loading demo
 
 > 💡 详细 API 文档请参考插件源码中的注释。  
 > For detailed API documentation, refer to the comments in the plugin source code.
-
 
 ---
 
